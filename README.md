@@ -35,7 +35,7 @@ Before running the project, ensure you have the following installed:
 
 To start the project locally, run:
 
-```bash
+
 npm start
 
 The server will be running on [http://localhost:5001]
