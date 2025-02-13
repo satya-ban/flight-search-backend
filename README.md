@@ -27,7 +27,7 @@ Before running the project, ensure you have the following installed:
 
 3. **Set up your SQLite3 database**:
 
-    - Create a SQLite3 database file in your project root directory (e.g., `flights.db`).
+    - Create or add a JSON file with the flight data in your project root directory so that SQLite3 creates a .db file with the data (e.g., `flights-data.db`).
     - Ensure the database includes a `flights` table that matches the model schema.
     - Add your test flight data in the format defined by the `flight.model.ts` file.
 
